@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Leben in Deutschland Quiz</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    #timer { font-weight: bold; margin: 10px; display: none; }
+    .nav-buttons button { margin-right: 10px; }
+    .options label { display: block; margin: 5px 0; }
+  </style>
+</head>
+<body>
+  <div id="start-screen">
+    <label for="username">Name:</label>
+    <input id="username" type="text">
+    <button onclick="startQuiz()">Start</button>
+  </div>
+
+  <div id="timer">Time Left: 30:00</div>
+  <div id="quiz-container" style="display:none;"></div>
+  <div id="result-screen" style="display:none;"></div>
+
+  <script src="questions.js"></script>
+  <script src="answers.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
