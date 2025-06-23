@@ -559,22 +559,22 @@ window.questions = [
     "options": [
       {
         "label": "A",
-        "text": "",
+        "text": "tolerant",
         "image": null
       },
       {
         "label": "B",
-        "text": "tolerant.",
-        "image": null
-      },
-      {
-        "label": "C",
         "text": "rechtsstaatlich orientiert.",
         "image": null
       },
       {
-        "label": "D",
+        "label": "C",
         "text": "gesetzestreu.",
+        "image": null
+      },
+      {
+        "label": "D",
+        "text": "verfassungswidrig.",
         "image": null
       }
     ]
@@ -619,22 +619,22 @@ window.questions = [
     "options": [
       {
         "label": "A",
-        "text": "",
-        "image": null
-      },
-      {
-        "label": "B",
         "text": "Monarchie",
         "image": null
       },
       {
-        "label": "C",
+        "label": "B",
         "text": "Diktatur",
         "image": null
       },
       {
-        "label": "D",
+        "label": "C",
         "text": "Republik",
+        "image": null
+      },
+      {
+        "label": "D",
+        "text": "Fürstentum",
         "image": null
       }
     ]
@@ -1912,7 +1912,7 @@ window.questions = [
       },
       {
         "label": "D",
-        "text": "",
+        "text": "Worms und Speyer",
         "image": null
       }
     ]
@@ -5996,22 +5996,22 @@ window.questions = [
     "options": [
       {
         "label": "A",
-        "text": "",
-        "image": null
-      },
-      {
-        "label": "B",
         "text": "in der NATO",
         "image": null
       },
       {
-        "label": "C",
+        "label": "B",
         "text": "im Rheinbund",
         "image": null
       },
       {
-        "label": "D",
+        "label": "C",
         "text": "im Warschauer Pakt",
+        "image": null
+      },
+      {
+        "label": "D",
+        "text": "im Europabündnis",
         "image": null
       }
     ]
@@ -6025,22 +6025,22 @@ window.questions = [
     "options": [
       {
         "label": "A",
-        "text": "",
-        "image": null
-      },
-      {
-        "label": "B",
         "text": "der Geheimdienst im \"Dritten Reich\"",
         "image": null
       },
       {
-        "label": "C",
+        "label": "B",
         "text": "eine berühmte deutsche Gedenkstätte",
         "image": null
       },
       {
-        "label": "D",
+        "label": "C",
         "text": "der Geheimdienst der DDR",
+        "image": null
+      },
+      {
+        "label": "D",
+        "text": "ein deutscher Sportverein während des Zweiten Weltkrieges",
         "image": null
       }
     ]
