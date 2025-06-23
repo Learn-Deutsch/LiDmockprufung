@@ -1,27 +1,67 @@
-
 body {
   font-family: Arial, sans-serif;
   padding: 20px;
   background: #f2f2f2;
 }
+
 #app {
   max-width: 800px;
+  width: 100%;
   margin: auto;
   background: white;
   padding: 20px;
   border-radius: 10px;
+  box-sizing: border-box;
 }
+
 h1 {
   text-align: center;
 }
+
 .question {
   margin-bottom: 20px;
 }
+
 .options label {
   display: block;
   margin-bottom: 10px;
 }
+
 img {
   max-width: 100%;
   margin-top: 10px;
+}
+
+input[type="text"],
+button {
+  width: 100%;
+  font-size: 1.1em;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#timer {
+  font-weight: bold;
+  margin: 10px 0;
+  display: none;
+}
+
+.nav-buttons button {
+  margin-right: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+  #app {
+    padding: 15px;
+  }
+  h1 {
+    font-size: 1.5em;
+  }
 }
