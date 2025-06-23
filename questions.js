@@ -5960,7 +5960,7 @@ window.questions = [
   },
   {
     "id": "Q206",
-    "text": "206.\tWoran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
+    "text": "Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
     "image": null,
     "images": [],
     "image_captions": [],
